@@ -2,7 +2,6 @@
 
 <li>Requirements</li>
 <li>Technical</li>
-<li>Currently</li>
 <br>
 <br>
 <h3>Requirements</h3>
@@ -32,7 +31,11 @@ I can access the service at any time from my phone.
 <br>
 <h3>Technical</h3>
 <hr>
-Connect Web/Android interface to Azure Cognitive Services, to get picture/video data and provide feedback in real time on what the picture/video frame contain.
-<br/>
+<li>Create API layer and connect to Azure Cognitive Services (Java Spring Boot)</li>
+<li>Create Web interface (HTML + CSS)</li>
+<li>Create Anroid interface (Android/Java + GSON) w/ Text to Speech</li>
+<li>Connect Web interface and Android interface to API layer</li>
+<li>Get picture/video data and provide feedback in real time on what the picture/video frame contain (from Web/Android interfaces)
+
 
 

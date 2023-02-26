@@ -4,7 +4,7 @@
 <li>Technical</li>
 <br>
 <br>
-<h3>Requirements</h3>
+<h3>✔Requirements</h3>
 <hr>
 
 <h4>SCENARIO</h4>
@@ -29,7 +29,7 @@ I can access the service at any time from my phone.
 <br/>
 <br/>
 <br>
-<h3>Technical</h3>
+<h3>✔Technical</h3>
 <hr>
 <li>Create API layer and connect to Azure Cognitive Services (Java Spring Boot)</li>
 <li>Create Web interface (HTML + CSS)</li>
